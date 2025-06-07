@@ -15,8 +15,9 @@ Este projeto foi desenvolvido como parte de um trabalho prático de engenharia d
 ---
 ## 📹 Demonstração em Vídeo
 
-Confira a demonstração do sistema no YouTube:  
+---
 🔗 https://www.youtube.com/watch?v=V9zHy3jgKkI
+[![Confira a demonstração do sistema no YouTube](https://img.youtube.com/vi/V9zHy3jgKkI/0.jpg)](https://www.youtube.com/watch?v=V9zHy3jgKkI)
 
 ---
 
